@@ -7,4 +7,4 @@
 ### その他
 
 - [プロポーザル](https://fortee.jp/iosdc-japan-2024/proposal/9a2bf428-7f8d-4084-93b5-7634a16471fe)
-- 掲載原稿PDF版(Dropbox) 👉 WIP
+- [掲載原稿PDF版(Dropbox)](https://www.dropbox.com/scl/fi/guu3p2gcjgrgbmfoyogfx/iOSDC2024-8.pdf?rlkey=8osmv541nal5ai3zmgpnysdq3&st=gjued2j5&dl=0)
